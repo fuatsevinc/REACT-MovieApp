@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-008 : Movie App (RC-08)
+#  Movie App 
 
 ## Description
 
@@ -85,5 +85,16 @@ Build a Movie App using ReactJS.
 ## Notes
 
 - You can add additional functionalities to your app.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me)](https://git.io/typing-svg)
+<p align="left">
+<a href="https://codepen.io/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+<a href="https://twitter.com/FuatSevinc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fuat-sevin%C3%A7-6a7969217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fuatsevinc66/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+</p>
+<p align="left">
+- This is <a href="http://www.fuatsevinc.com" target="_blank">My Portfolio Website www.fuatsevinc.com</a>
+</p>
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
