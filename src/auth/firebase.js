@@ -28,7 +28,7 @@ const firebaseConfig = {
   appId: process.env.REACT_APP_appId,
 };
 // const firebaseConfig = {
-//   apiKey: "AIzaSyCg1fCEO8i7MQnM3SiMJPiVcADp_NI9XTw",
+//   apiKey: "e517d7ad606fdb33720f6acb03ac5e87",
 //   authDomain: "movie-app-1-6ec44.firebaseapp.com",
 //   projectId: "movie-app-1-6ec44",
 //   storageBucket: "movie-app-1-6ec44.appspot.com",
