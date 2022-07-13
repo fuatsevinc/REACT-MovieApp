@@ -27,14 +27,14 @@ const firebaseConfig = {
   messagingSenderId: process.env.REACT_APP_messagingSenderId,
   appId: process.env.REACT_APP_appId,
 };
-// const firebaseConfig = {
-//   apiKey: "e517d7ad606fdb33720f6acb03ac5e87",
-//   authDomain: "movie-app-1-6ec44.firebaseapp.com",
-//   projectId: "movie-app-1-6ec44",
-//   storageBucket: "movie-app-1-6ec44.appspot.com",
-//   messagingSenderId: "950886341278",
-//   appId: "1:950886341278:web:f4feb188157227da55398f",
-// };
+const firebaseConfig = {
+  apiKey: "e517d7ad606fdb33720f6acb03ac5e87",
+  authDomain: "movie-app-1-6ec44.firebaseapp.com",
+  projectId: "movie-app-1-6ec44",
+  storageBucket: "movie-app-1-6ec44.appspot.com",
+  messagingSenderId: "950886341278",
+  appId: "1:950886341278:web:f4feb188157227da55398f",
+};
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
